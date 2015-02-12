@@ -1,0 +1,16 @@
+Plan:
+	Endpoint detection
+	Low pass filters
+	Windowing function
+	DFT
+	MEL Cepstrum calculation
+	Vector Quantization and Codebook
+	HMM
+	
+//TODO: Fix time counter
+//TODO: Window overlapping
+//TODO: Scale samples on (-1, 1) interval.
+//TODO: Improve endpoint detection by 2-pass(2 smoothing).
+//TODO: Auto set energy treshold.
+//TODO: Add zero-crossing rate calculation for endpoint detection
+//TODO: Add mean and standard deviation for endpoint detection.

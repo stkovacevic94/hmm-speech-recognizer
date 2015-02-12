@@ -1,2 +1,2 @@
 # Speech_Recognition_System
-Simple MFCC + HMM speech recognition system.
+Simple MFCC + HMM speech recognition system. Still unfinished.
